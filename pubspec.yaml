@@ -31,9 +31,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-  assets: assets\images\C:\Users\jmorr\OneDrive\Desktop\WEBPROGRAZC\web\zodiac.jpg
-          assets\images\C:\Users\jmorr\OneDrive\Desktop\WEBPROGRAZC\web\zodiacsign.jpg
-          aseets\images\C:\Users\jmorr\OneDrive\Desktop\WEBPROGRAZC\web\12zodiacs.jpg
+  assets:
+  - assets\images\C:\Users\jmorr\OneDrive\Desktop\WEBPROGRAZC\web\zodiac.jpg
+  - assets\images\C:\Users\jmorr\OneDrive\Desktop\WEBPROGRAZC\web\zodiacsign.jpg
+  - assets\images\C:\Users\jmorr\OneDrive\Desktop\WEBPROGRAZC\web\12zodiacs.jpg
+
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
